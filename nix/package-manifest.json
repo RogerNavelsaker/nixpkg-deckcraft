@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "deckcraft",
+    "version": "0.10.0",
+    "tag": "v0.10.0",
+    "archive": "deckcraft-0.10.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/deckcraft/releases/download/v0.10.0/deckcraft-0.10.0-linux-x86_64.tar.gz",
+    "hash": "sha256-VGYW6yMAzo77ILRKU+YKv+a5bXGsYGtFKjb9Icax/yg="
+  },
+  "package": {
+    "repo": "deckcraft",
+    "version": "0.10.0"
+  },
+  "binary": {
+    "name": "deckcraft"
+  },
+  "meta": {
+    "description": "Deckcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/deckcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
